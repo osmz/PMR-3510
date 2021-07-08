@@ -1,0 +1,27 @@
+/*
+    1. Positioning
+    2. Box Model
+    3. Typography
+    4. Visuals
+    5. Others
+*/
+:root{
+    /*Colors*/
+    --Text1: #000;
+    --Text2: #fff;
+    --Service1: #F49608;
+    --Service2: #f8e800;
+    --Service3: #F7F5FB;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+    font-family: 'Encode Sans', sans-serif;
+}
+body {
+    font-size: 1.6rem;
+}
