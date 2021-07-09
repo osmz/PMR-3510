@@ -4,7 +4,7 @@ header{
     position: relative;
     width: 100%;
     min-height: 60px;
-    background: var(--Service3);
+    background: var(--Service4);
 }
 .header-img--logo{
     position: absolute;
@@ -101,7 +101,7 @@ header{
     color: var(--Text1);
 }
 .final-work{
-    background-color: var(--Service1);
+    background-color: var(--Service4);
 }
 .final-work p{
     position: relative;
