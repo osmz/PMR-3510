@@ -41,6 +41,7 @@ header{
     line-height: 2rem;
     text-decoration: none;
     color: var(--Text1);
+    pointer-events: none;
 }
 .header-name{
     position: relative;
@@ -99,6 +100,10 @@ header{
 }
 .header-container-modulo--list{
     color: var(--Text1);
+}
+.header-container-modulo--list2{
+    text-decoration: none;
+    pointer-events: none;
 }
 .swishProlog{
     padding-top: 25px;
